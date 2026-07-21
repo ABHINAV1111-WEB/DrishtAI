@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# YOLO model weights (auto-download, don't commit)
+*.pt
+
+# Pipeline outputs (regenerable from video)
+detections.json
+meta.json
+annotated/
+frames_test/
+
+# Video data (share via Drive, too large for git)
+data/*.mp4
