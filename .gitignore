@@ -228,3 +228,10 @@ frames_test/
 
 # Video data (share via Drive, too large for git)
 data/*.mp4
+
+tracks.json
+motion.json
+motion_s7.json
+events.json
+timeline.json
+tracked/
