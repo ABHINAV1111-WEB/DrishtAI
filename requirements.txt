@@ -1,8 +1,8 @@
-opencv-python>=4.9
+﻿streamlit>=1.40
 ultralytics>=8.2
+opencv-python-headless>=4.9
 numpy>=1.26
 scipy>=1.12
-anthropic>=0.34
-streamlit>=1.
 lap>=0.5.12
 openai>=1.40
+anthropic>=0.34
